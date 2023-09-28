@@ -1,4 +1,4 @@
-baseURL = 'https://archive.transacademic.org/'
+baseURL = 'https://data.transacademic.org/'
 languageCode = 'en-us'
 title = 'Trans Data Archive'
 theme = 'book'
