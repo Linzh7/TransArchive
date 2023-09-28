@@ -1,4 +1,5 @@
 ---
+weight: -150510
 title: 四川:毕业证书上网后不能更改
 type: docs
 bookToc: True

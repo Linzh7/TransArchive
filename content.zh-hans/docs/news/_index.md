@@ -1,7 +1,9 @@
 ---
+weight: 30
 title: 新闻报道
-type: docs
+bookFlatSection: false
 bookToc: false
+bookCollapseSection: true
 ---
 
 # 新闻报道

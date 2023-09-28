@@ -1,7 +1,9 @@
 ---
+weight: 10
 title: 官方文档
-type: docs
+bookFlatSection: false
 bookToc: false
+bookCollapseSection: true
 ---
 
 # 官方文档

@@ -1,7 +1,9 @@
 ---
+weight: 50
 title: 社群讨论
-type: docs
+bookFlatSection: false
 bookToc: false
+bookCollapseSection: true
 ---
 
 # 社群讨论
