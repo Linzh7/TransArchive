@@ -13,3 +13,4 @@ bookCollapseSection: true
 - [中国驻日本大坂领事馆总领事称跨性别者是“畸形”](http://archive.today/2023.06.15-112227/https://twitter.com/xuejianosaka/status/1668778036492374018), [backup](https://web.archive.org/web/20230617155629/https://twitter.com/xuejianosaka/status/1668778036492374018)
     - 后续，作者解释称：并非说跨性别者为畸形，而是一些行为。
 - [雌二醇片/雌二醇地屈孕酮片复合包装含有单方制剂雌二醇片，属于《清单》中禁止通过网络零售的品种 - 国家药监局综合司关于《药品网络销售禁止清单（第一版）》有关问题的复函](https://web.archive.org/web/20230710110339/https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/gzwjyp/20230710110515153.html)
+- [中华人民共和国跨性别相关法律法规变迁 - Project Trans](https://github.com/project-trans/legal-spec)
